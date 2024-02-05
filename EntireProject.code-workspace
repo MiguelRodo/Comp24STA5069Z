@@ -1,11 +1,10 @@
-/**
- * Workspace configuration file for the entire project.
- * Specifies the folders to include in the workspace.
- */
 {
   "folders": [
     {
       "path": "."
+    },
+    {
+      "path": "../Slides24STA5069Z"
     }
   ]
 }
